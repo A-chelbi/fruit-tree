@@ -37,12 +37,15 @@
   }
 }
 
+.legume,.fruit {
+  border-radius: 25px;
+  padding: 20px;
+}
+
 .legume {
   border: 2px solid red;
-  border-radius: 25px;
 }
 
 .fruit {
   border: 2px solid blue;
-    border-radius: 25px;
 }
