@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.legume {
+  border: 2px solid red;
+  border-radius: 25px;
+}
+
+.fruit {
+  border: 2px solid blue;
+    border-radius: 25px;
+}
